@@ -25,7 +25,7 @@ class App extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-sm-6">
-                Made with <i className="glyphicon glyphicon-heart"></i> by Lee Mracek and Max Ovsiankin
+                Made with <i className="glyphicon glyphicon-heart"></i> by Lee Mracek, Max Ovsiankin and Ali Asif
               </div>
               <div className="col-sm-6">
                 <div className="text-right">
